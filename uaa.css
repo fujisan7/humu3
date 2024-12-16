@@ -25,5 +25,18 @@
 	display: inline-block;
 	margin: 0 20px;
   }
+.button04 {
+	background-color: #fff;
+	border: double 6px #3cb371;
+	color: #3cb371;
+	border-radius: 10px;
+	padding: 50px 80px;
+	text-decoration: none;
+	font-size: 1em;
+  }
+  .button04:hover {
+	color: #3cb371;
+	background-color: #f0fff0;
+  }
   
   
